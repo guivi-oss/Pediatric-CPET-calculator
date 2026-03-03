@@ -1,0 +1,5 @@
+{
+  "name": "Pediatric Exercise Test",
+  "description": "A calculator for pediatric exercise test normative values based on published data.",
+  "requestFramePermissions": []
+}
